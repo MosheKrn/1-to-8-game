@@ -1,0 +1,34 @@
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.exe
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.deps.json
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.runtimeconfig.json
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.dll
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.pdb
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.AssemblyReference.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.GenerateResource.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.AssemblyInfoInputs.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.AssemblyInfo.cs
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.CoreCompileInputs.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.dll
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\practiceNum5.dll
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.pdb
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.genruntimeconfig.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\Visual programming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\practiceNum5.dll
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.exe
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.deps.json
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.runtimeconfig.json
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.dll
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\practiceNum5.pdb
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.AssemblyReference.cache
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.GenerateResource.cache
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.AssemblyInfoInputs.cache
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.AssemblyInfo.cs
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.csproj.CoreCompileInputs.cache
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.dll
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\practiceNum5.dll
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.pdb
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\practiceNum5.genruntimeconfig.cache
+C:\Users\moshe\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\practiceNum5.dll
